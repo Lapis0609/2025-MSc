@@ -1,1 +1,1 @@
-> 本段代码是在 **Kaggle** 上执行的，其中 **RAGAS 评估** 部分的 **API key** 是从 Kaggle 环境中直接读取的。
+This code was executed on **Kaggle**, where the **API key** for the **RAGAS evaluation** section was read directly from the Kaggle environment.
